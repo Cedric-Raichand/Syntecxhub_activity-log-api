@@ -57,44 +57,6 @@ activity-log-api/
 
 ---
 
-## ⚙️ Installation
-
-### 1. Clone repository
-
-```bash
-git clone <repo-url>
-```
-
----
-
-### 2. Install dependencies
-
-```bash
-npm install
-```
-
----
-
-### 3. Configure environment variables
-
-Create a `.env` file:
-
-```env
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=mysecretkey
-PORT=5000
-```
-
----
-
-### 4. Start server
-
-```bash
-node server.js
-```
-
----
-
 ## 📡 API Endpoints
 
 ---
